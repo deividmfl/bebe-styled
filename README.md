@@ -130,4 +130,4 @@ bebe-styled/
 
 ## License
 
-[MIT License] (https://github.com/deividmfl/bebe-styled/blob/master/LICENSE)
+[MIT License](https://github.com/deividmfl/bebe-styled/blob/master/LICENSE)
