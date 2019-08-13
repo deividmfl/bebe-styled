@@ -1,5 +1,5 @@
 <p align="center">
- `:baby:`
+ :baby:
 </p>
 
 <h2 align="center">
@@ -127,3 +127,7 @@ bebe-styled/
 
   </Nav>
 ```
+
+## License
+
+[MIT License] (https://github.com/deividmfl/bebe-styled/blob/master/LICENSE)
