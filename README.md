@@ -25,8 +25,8 @@
 ## Get started
 
 - Clone the repo: `git clone https://github.com/deividmfl/bebe-styled.git`
-- With [yarn](https://yarnpkg.com/): `yarn add bebe-styled`
-- With [npm](https://www.npmjs.com/): `npm install bebe-styled`
+<!-- - With [yarn](https://yarnpkg.com/): `yarn add bebe-styled`
+- With [npm](https://www.npmjs.com/): `npm install bebe-styled` -->
 
 ## Included
 
