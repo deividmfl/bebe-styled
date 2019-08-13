@@ -54,9 +54,9 @@ bebe-styled/
 
 ## Documentation
 
-<h2>
+<h3>
   <strong>Container</strong>
-</h2>
+</h3>
 
 <p>Container by default have 90%</p>
 
@@ -74,15 +74,15 @@ bebe-styled/
   </Container>
 ```
 
-<h2>
+<h3>
   <strong>Col</strong>
-</h2>
+</h3>
 
 <p>the column goes from 1 to 12, and the container has a maximum of 960px.</p>
 
-<h3>
+<h4>
   <strong>Example</strong>
-</h3>
+</h4>
 
 ```text
   <Container>
@@ -94,7 +94,7 @@ bebe-styled/
 ```
 <br>
 <div style="background-color: #f7fbf1; color:black; padding: 1rem;">
-  <h2 align="center">
+  <h3 align="center">
     -- Col1 -- | ---------------------- Col11 ----------------------
     <br>
     <br>
@@ -111,16 +111,16 @@ bebe-styled/
     <br>
     <br>
     ------------ Col6 -------------- | ------------ Col6 ------------
-  </h2>
+  </h3>
 </div>
 
-<h2>
-  <strong>Nav</strong>
-</h2>
-
 <h3>
-  <strong>Example</strong>
+  <strong>Nav</strong>
 </h3>
+
+<h4>
+  <strong>Example</strong>
+</h4>
 
 ```text
   <Nav>
