@@ -20,7 +20,7 @@
 - [Get started](#get-started)
 - [What's included](#included)
 - [Documentation](#documentation)
-- [Copyright and license](#copyright-and-license)
+- [License](#license)
 
 ## Get started
 
