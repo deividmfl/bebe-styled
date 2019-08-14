@@ -17,8 +17,9 @@
 
 ## Navigation
 
+- [Navigation](#navigation)
 - [Get started](#get-started)
-- [What's included](#included)
+- [Included](#included)
 - [Documentation](#documentation)
 - [License](#license)
 
@@ -37,12 +38,20 @@ bebe-styled/
     │   ├── Col.js
     |   ├── index.js
     |   ├── StyledComponents.js
+    ├── Collapse/
+    │   ├── Collapse.js
+    |   ├── index.js
+    |   ├── StyledComponents.js
     ├── Container/
     │   ├── Container.js
     |   ├── index.js
     |   ├── StyledComponents.js
     ├── Nav/
     │   ├── Nav.js
+    |   ├── index.js
+    |   ├── StyledComponents.js
+    ├── Navbar/
+    │   ├── Navbar.js
     |   ├── index.js
     |   ├── StyledComponents.js
     ├── Row/
@@ -53,26 +62,6 @@ bebe-styled/
 ```
 
 ## Documentation
-
-<h3>
-  <strong>Container</strong>
-</h3>
-
-<p>Container by default have 90%</p>
-
-```text
-  <Container>
-    <!-- Content -->
-  </Container>
-```
-
-<p>Using the "full" props the container will have 100%</p>
-
-```diff
-!  <Container full>
-    <!-- Content -->
-  </Container>
-```
 
 <h3>
   <strong>Col</strong>
@@ -115,6 +104,40 @@ bebe-styled/
 </div>
 
 <h3>
+  <strong>Collapse</strong>
+</h3>
+
+<h4>
+  <strong>Example</strong>
+</h4>
+
+```text
+  <Collapse>
+
+  </Collapse>
+```
+
+<h3>
+  <strong>Container</strong>
+</h3>
+
+<p>Container by default have 90%</p>
+
+```text
+  <Container>
+    <!-- Content -->
+  </Container>
+```
+
+<p>Using the "full" props the container will have 100%</p>
+
+```diff
+!  <Container full>
+    <!-- Content -->
+  </Container>
+```
+
+<h3>
   <strong>Nav</strong>
 </h3>
 
@@ -127,6 +150,21 @@ bebe-styled/
 
   </Nav>
 ```
+
+<h3>
+  <strong>Navbar</strong>
+</h3>
+
+<h4>
+  <strong>Example</strong>
+</h4>
+
+```text
+  <Navbar>
+
+  </Navbar>
+```
+
 
 ## License
 
