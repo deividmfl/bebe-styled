@@ -54,6 +54,10 @@ bebe-styled/
     │   ├── Navbar.js
     |   ├── index.js
     |   ├── StyledComponents.js
+    ├── NavbarBrand/
+    │   ├── NavbarBrand.js
+    |   ├── index.js
+    |   ├── StyledComponents.js    
     ├── Row/
     │   ├── Row.js
     |   ├── index.js
@@ -162,6 +166,20 @@ bebe-styled/
 ```text
   <Navbar>
 
+  </Navbar>
+```
+
+<h3>
+  <strong>NavbarBrand</strong>
+</h3>
+
+<h4>
+  <strong>Example</strong>
+</h4>
+
+```text
+  <Navbar>
+    <NavbarBrand href="">link</NavbarBrand>
   </Navbar>
 ```
 
