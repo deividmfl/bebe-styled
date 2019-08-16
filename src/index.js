@@ -3,7 +3,8 @@ import Row from './Row';
 import Col from './Col';
 import Nav from './Nav';
 import Navbar from './Navbar';
-import NavbarNavbarBrand from './NavbarBrand';
+import NavbarBrand from './NavbarBrand';
+import NavbarToggler from './NavbarToggler';
 import Collapse from './Collapse';
 
 export {
@@ -12,6 +13,7 @@ export {
   Col,
   Nav,
   Navbar,
-  NavbarNavbarBrand,
+  NavbarBrand,
+  NavbarToggler,
   Collapse,
 }
