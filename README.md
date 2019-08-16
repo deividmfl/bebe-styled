@@ -57,7 +57,11 @@ bebe-styled/
     ├── NavbarBrand/
     │   ├── NavbarBrand.js
     |   ├── index.js
-    |   ├── StyledComponents.js    
+    |   ├── StyledComponents.js
+    ├── NavbarToggler/
+    │   ├── NavbarToggler.js
+    |   ├── index.js
+    |   ├── StyledComponents.js
     ├── Row/
     │   ├── Row.js
     |   ├── index.js
