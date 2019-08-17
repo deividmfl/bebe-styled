@@ -5,6 +5,8 @@ import Nav from './Nav';
 import Navbar from './Navbar';
 import NavbarBrand from './NavbarBrand';
 import NavbarToggler from './NavbarToggler';
+import NavItem from './NavItem';
+import NavLink from './NavLink';
 import Collapse from './Collapse';
 
 export {
@@ -15,5 +17,7 @@ export {
   Navbar,
   NavbarBrand,
   NavbarToggler,
+  NavItem,
+  NavLink,
   Collapse,
 }
