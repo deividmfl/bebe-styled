@@ -46,6 +46,10 @@ bebe-styled/
     │   ├── Container.js
     |   ├── index.js
     |   ├── StyledComponents.js
+    ├── Modal/
+    │   ├── Modal.js
+    |   ├── index.js
+    |   ├── StyledComponents.js
     ├── Nav/
     │   ├── Nav.js
     |   ├── index.js
