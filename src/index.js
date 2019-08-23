@@ -1,6 +1,7 @@
 import Col from './Col';
 import Collapse from './Collapse';
 import Container from './Container';
+import Image from './Image';
 import Modal from './Modal';
 import Nav from './Nav';
 import Navbar from './Navbar';
@@ -14,6 +15,7 @@ export {
   Col,
   Collapse,
   Container,
+  Image,
   Modal,
   Nav,
   Navbar,
