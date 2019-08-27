@@ -4,32 +4,24 @@ import classNames from 'classnames';
 import { StyledContainer, StyledFullContainer } from './StyledComponents';
 
 const propTypes = {
-  full: PropTypes.bool,
-  className: PropTypes.string,
+    full: PropTypes.bool,
+    className: PropTypes.string
 };
 
 const defaultProps = {
-  full: false,
-  className: null,
+    full: false,
+    className: null
 };
 
-const Container = (props) => {
-  const {
-    className,
-    full,
-    ...attributes
-  } = props;
+const Container = props => {
+    const { className, full, ...attributes } = props;
 
-  const classes = classNames(
-    className,
-  );
+    const classes = classNames(className);
 
-  if (full) {
-    return <StyledFullContainer {...attributes} className={classes} />;
-  }
-  return (
-    <StyledContainer {...attributes} className={classes} />
-  );
+    if (full) {
+        return <StyledFullContainer {...attributes} className={classes} />;
+    }
+    return <StyledContainer {...attributes} className={classes} />;
 };
 
 Container.propTypes = propTypes;
