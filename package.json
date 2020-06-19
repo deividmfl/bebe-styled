@@ -1,8 +1,8 @@
 {
   "name": "bebe-styled",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "",
-  "main": "src/index.js",
+  "main": "./lib/index.js",
   "author": "",
   "license": "ISC",
   "repository": {
